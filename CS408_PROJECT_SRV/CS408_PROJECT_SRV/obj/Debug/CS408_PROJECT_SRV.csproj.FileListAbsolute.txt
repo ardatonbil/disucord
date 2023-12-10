@@ -1,9 +1,0 @@
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\bin\Debug\CS408_PROJECT_SRV.exe.config
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.csprojResolveAssemblyReference.cache
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.Form1.resources
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.Properties.Resources.resources
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.csproj.GenerateResource.Cache
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\bin\Debug\CS408_PROJECT_SRV.exe
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\bin\Debug\CS408_PROJECT_SRV.pdb
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.exe
-C:\Users\ardat\Desktop\CS408_PROJECT_SRV\CS408_PROJECT_SRV\obj\Debug\CS408_PROJECT_SRV.pdb
