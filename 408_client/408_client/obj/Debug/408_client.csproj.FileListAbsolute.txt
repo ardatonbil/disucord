@@ -1,0 +1,9 @@
+C:\Users\ardat\Desktop\408_client\408_client\bin\Debug\408_client.exe.config
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\408_client.csprojResolveAssemblyReference.cache
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\_408_client.Properties.Resources.resources
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\408_client.csproj.GenerateResource.Cache
+C:\Users\ardat\Desktop\408_client\408_client\bin\Debug\408_client.exe
+C:\Users\ardat\Desktop\408_client\408_client\bin\Debug\408_client.pdb
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\408_client.exe
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\408_client.pdb
+C:\Users\ardat\Desktop\408_client\408_client\obj\Debug\client.Form1.resources
